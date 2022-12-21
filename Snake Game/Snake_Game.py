@@ -1,3 +1,5 @@
+# Learn By Bro Code: https://www.youtube.com/@BroCodez/featured
+
 from tkinter import *
 import random
 
