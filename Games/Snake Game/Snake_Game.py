@@ -1,7 +1,5 @@
-# I learned from the brocode YouTube channel.: https://www.youtube.com/@BroCodez/featured
-'''This was my learning project, and I have given all credit to the file itself; 
-I did not simply copy and paste the code by watching the tutorial; I did tweak some functions, 
-#replace files and images as needed, and so on. '''
+#!/bin/python3
+#Learned from @BroCode
 
 from tkinter import *
 import random
